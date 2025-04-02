@@ -38,8 +38,7 @@ El proyecto simula una gestión de estudiantes en una universidad, permitiendo a
    ```
 4. Crea la base de datos universidad en PostgreSQL (si no existe aún).
 5. Ejecuta la aplicación con Maven:
-```mvn spring-boot:run
-```
+```mvn spring-boot:run```
 6. La aplicación estará corriendo en http://localhost:8081.
 
 ## Endpoints
